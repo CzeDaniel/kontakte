@@ -1,3 +1,3 @@
 # kontkte
 
-Web: ≤https://>
+Web: <[](https://dahrno.github.io/kontakte)>
